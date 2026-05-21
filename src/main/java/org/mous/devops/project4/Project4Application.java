@@ -16,6 +16,6 @@ public class Project4Application {
 
     @GetMapping("/")
     public String hello() {
-        return "This is a test for the Presentation 1";
+        return "This is a test for the Presentation";
     }
 }
